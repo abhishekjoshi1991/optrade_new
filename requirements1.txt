@@ -1,0 +1,12 @@
+Flask
+Flask-Admin
+psycopg2
+Flask-Cors
+Flask-RESTful
+flask-restx
+requests
+Flask-SQLAlchemy
+Werkzeug == 2.1.1
+requests
+pandas
+matplotlib
